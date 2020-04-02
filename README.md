@@ -1,4 +1,7 @@
-# Hi, I'm not Yoshiori
+# Hi, I'm Haruki.
+
+# TODO: Update this with 
+Long story short: I had written an simple server app to write this markdown document.
 
 # この文書について
 
@@ -8,6 +11,8 @@
 会社の状態や、自分の状態によって、考え方や、やることは変わるから、まあなんかここに書いてあることは時々変わるかもしれません。
 
 あとなんかよしおりが書いてたから真似して書こうと思ったけど、途中で飽きたので、途中から雑になっています。
+ABCD!!
+EFGH
 
 # 僕の職種について
 
