@@ -1,4 +1,13 @@
-# Hi, I'm not Yoshiori
+Hi, I'm Haruki
+==============
+
+
+# Background
+
+## Miscellaneous . Facts
+* I implemented <https://github.com/haruki-sugarsun/markdown_editor> to write this document.
+  * Since I'm too lazy to search for a good tool.
+
 
 # この文書について
 
