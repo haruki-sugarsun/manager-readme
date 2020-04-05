@@ -28,38 +28,111 @@ fork treeをリスペクトして日本語で書くことにします。
 
 # 立場と仕事内容について
 
-私は2020年の4月現在で、副室長という立場であり、
+私は2020年の4月現在で、副室長という肩書・立場であり、
 開発1室という組織内のチームを複数統括する立場です。
 
-また、同時に、
+また、同時に、開発チームとしては東京と福岡にまたがる
+拠点ごとに大体同規模の
 
-ある立場では10人程度。またある立場では20
+ある立場では10人程度。またある立場では20人程度をまとめる立場である、
 
 
-
+仕事内容・役割としては、
 周りがどう考えているかは置いておいて、
 自分自身の認識は
-Engineering Managerであり、People Managerだと思っています。
+Engineering Managerであり、People Managerがprimary roleだと思っています。
 
 
 エンジニア組織を見ている以上、
-良くも悪くも、
-技術面や
+良くも悪くも、技術的な話題や議論には参加できるようになりたいと思っていますが、
 
+技術面や個々の判断については正直、メンバーに頼ることのほうが多いはずです。
+ただ、参加しているメンバーとしては、説得力のある内容であってほしいとは思っています。
+
+
+開発観点の好き嫌い、やりがちなパターンは私も持っていますが、
+Engineering Managerとしては、個別の実装についてベストな判断を行う自信もありませんし、
+適切な立場にもないと考えています。
+
+
+一方で、個人やチームに閉じない
+後方から、あるいはサイドから援護・調整をすることは仕事だと思っています。
+個人がそれぞれの
+チームが
+チームという存在が勝手に意思や意見を統一することはないので、リーダーとしての役割にはチームの意思を作り、仮想的に代表することだと思っています。
+そして、組織図上に存在する組織のリーダーはマネージャーなので、この立場と役割も
+開発チームである以上、ここに総意としての技術的な判断が入ってきています。
 
 
 # なんとかマネジメントについて
 
+前節で、私が何をしているのか、しているつもりなのか、
+について書きました。
+
+一般的にマネージャーが
+マネジメントするものが多岐にわたると思われている、あるいはそう理解している人が
 （management, manager, leadなど）
 
-それぞれはさらに特殊化する話題だと思うので、
-ここでは各マネジメントの内容には立ち入りませんが、
-私はそのくらいの区別をしているよ、ということ
+自分自身としてかかわる範囲で、
+* People Management
+* Product Management
+* Project Management
+* Development Lead
 
-よって、それぞれにはそれぞれのスペシャリストがいるはず、
+などなどがあるかなあ、と思っています。
+（本当は、<https://qiita.com/hirokidaichi/items/95678bb1cef32629c317>を全部読みたいのが私です）
+
+
+それぞれはさらに特殊化する話題だと思いますし、
+正直、私はどの分野でも理解があるとは思えないので、
+ここでは各マネジメントの内容には立ち入りませんが
+、
+私はそのくらいの区別をしているよ、ということが伝われば助かります。
+
+よって、それぞれにはそれぞれのスペシャリストがいるはずだと思っています。
 場合によって、同じ人が兼任していることももちろんあるでしょうが、
-本質的にはそれぞれがせめぎあう部分があると考えています。
+本質的にはそれぞれがせめぎあう部分があり、マネージャー自身にも、周りのメンバーにも難しさを感じさせていると感じます。
 
+
+例えば前節で触れたような個別の実装の例であれば、
+Engineering Manager と Development Lead をたまたま兼任している人が、
+People Managementを行いながら、個別の実装にも携わっていること自体はあり得ると思います。
+
+
+
+# 具体的な仕事内容
+## 組織を維持すること
+### 1 on 1
+## 採用
+### 情報発信
+## Product Decision の（ざっくり）技術面支援
+## Project Management の（ざっくり）技術面支援
+## 僕がやらないことについて
+（Fork もとの README でこれはよいな、と思った部分なのでタイトルそのまま）
+ 
+
+# 仕事上の方針と意見
+## コミュニケーション
+## 
+
+
+# その他思想
+
+
+# 参考資料
+
+
+
+## Miscellaneous Facts
+* I implemented <https://github.com/haruki-sugarsun/markdown_editor> to write this document.
+  * Since I'm too lazy to search for a good tool, even though I know that some JS implementations exist.
+* I forked the repo in 2018. and long time has passed to start writing.
+  * 根本的に文章を書き始めると長くなる質なので、書き始めるのに腰が重いという面もあります。
+
+
+## Other Resources
+* <https://managerreadme.com/readme/singing_hacky/z2q2je>
+* <https://sites.google.com/site/harukisato1031/home>
 
 
 -----
@@ -216,15 +289,3 @@ Trust and Respect でやってくれ、というお達しを CTO からもらっ
 なんかこれ書くのに飽きてきたのでここで終わりです。
 気がむいたら追記します。
 
-
-
-## Miscellaneous Facts
-* I implemented <https://github.com/haruki-sugarsun/markdown_editor> to write this document.
-  * Since I'm too lazy to search for a good tool, even though I know that some JS implementations exist.
-* I forked the repo in 2018. and long time has passed to start writing.
-  * 根本的に文章を書き始めると長くなる質なので、書き始めるのに腰が重いという面もあります。
-
-
-## Other Resources
-* <https://managerreadme.com/readme/singing_hacky/z2q2je>
-* <https://sites.google.com/site/harukisato1031/home>
