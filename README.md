@@ -4,9 +4,13 @@ Hi, I'm Haruki
 
 # Background
 
-## Miscellaneous . Facts
+## Miscellaneous Facts
 * I implemented <https://github.com/haruki-sugarsun/markdown_editor> to write this document.
   * Since I'm too lazy to search for a good tool.
+
+# TODO: Update this with 
+Long story short: I had written an simple server app to write this markdown document.
+<https://github.com/haruki-sugarsun/markdown_editor>
 
 
 # この文書について
@@ -17,6 +21,8 @@ Hi, I'm Haruki
 会社の状態や、自分の状態によって、考え方や、やることは変わるから、まあなんかここに書いてあることは時々変わるかもしれません。
 
 あとなんかよしおりが書いてたから真似して書こうと思ったけど、途中で飽きたので、途中から雑になっています。
+ABCD!!
+EFGH
 
 # 僕の職種について
 
@@ -165,3 +171,6 @@ Trust and Respect でやってくれ、というお達しを CTO からもらっ
 
 なんかこれ書くのに飽きてきたのでここで終わりです。
 気がむいたら追記します。
+��こで終わりです。
+気がむいたら追記します。
+
