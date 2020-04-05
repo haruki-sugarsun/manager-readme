@@ -1,28 +1,25 @@
 Hi, I'm Haruki
 ==============
 
-
-# Background
-
-## Miscellaneous Facts
-* I implemented <https://github.com/haruki-sugarsun/markdown_editor> to write this document.
-  * Since I'm too lazy to search for a good tool.
-
-# TODO: Update this with 
-Long story short: I had written an simple server app to write this markdown document.
-<https://github.com/haruki-sugarsun/markdown_editor>
+_STILL DRAFT: 2020-04-06_
 
 
 # この文書について
+2018年に何やら（一部で）流行っているのをみて、
+自分もやってみようと思ったのがきっかけなので、
+fork treeをリスペクトして日本語で書いてみます。
 
-僕が何を考えて Management をしようとしているかについて、適宜 1 on 1 等でお伝えしておりますが、全員に同じ内容を伝えるのも飽きるので、文書として公開します。
-(あと、1 on 1 で同じ内容を複数人に伝えると、後半の人のほうが話の内容が濃くなるし!)
+特にマネージャーという立場は、多くの人に影響を与えることが仕事のうちであり、
 
-会社の状態や、自分の状態によって、考え方や、やることは変わるから、まあなんかここに書いてあることは時々変わるかもしれません。
+マネジメントに限らず、
+私が仕事に対してどのように考えているか、
+何を重要だと考えているか、
+あるいは何を重要ではないと考えているか、などを徒然なるままに書いています。
 
-あとなんかよしおりが書いてたから真似して書こうと思ったけど、途中で飽きたので、途中から雑になっています。
-ABCD!!
-EFGH
+基本的には聞かれたら（聞かれなくても）喋っていることとと同じ内容のはずです。
+役に立つかもしれないし、立たないかもしれません。
+
+
 
 # 僕の職種について
 
@@ -171,6 +168,15 @@ Trust and Respect でやってくれ、というお達しを CTO からもらっ
 
 なんかこれ書くのに飽きてきたのでここで終わりです。
 気がむいたら追記します。
-��こで終わりです。
-気がむいたら追記します。
 
+
+
+## Miscellaneous Facts
+* I implemented <https://github.com/haruki-sugarsun/markdown_editor> to write this document.
+  * Since I'm too lazy to search for a good tool, even though I know that some JS implementations exist.
+* I forked the repo in 2018. and long time has passed to start writing.
+
+
+## Other Resources
+* <https://managerreadme.com/readme/singing_hacky/z2q2je>
+* <https://sites.google.com/site/harukisato1031/home>
